@@ -44,6 +44,8 @@ Experienced in managing Linux infrastructure, AWS cloud services, server adminis
 - AWS S3 Static Website Hosting
 - AWS EC2 Web Server Deployment
 - AWS VPC Architecture
+- Enterprise 3-Tier Web Application Architecture
+- AWS Backup & Disaster Recovery Solution
 
 ## 🎯 Career Interests
 
