@@ -3,7 +3,7 @@
 
 ### AWS Cloud Engineer | Linux System Administrator | DevOps Engineer
 
-IT professional with 1.5 years of experience in Linux System Administration and 1.5 years of professional experience in AWS Cloud Engineering.
+IT professional with 2 years of experience in Linux System Administration and professional experience in AWS Cloud Engineering.
 
 Experienced in managing Linux infrastructure, AWS cloud services, server administration, cloud deployment, and troubleshooting.
 
